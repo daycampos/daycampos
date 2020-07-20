@@ -1,6 +1,6 @@
 ### Hello world! 👋🏾
 
-I'm a software developer at @ProjetoEureka
+I'm a software developer
 
 ### A little more about me
 
